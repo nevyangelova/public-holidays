@@ -10,3 +10,7 @@ A simple Calendar app that displays public holidays for a given country, year an
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Public URL 
+
+[https://public-holidays.vercel.app/](https://public-holidays.vercel.app/)
